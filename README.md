@@ -1,5 +1,5 @@
 # DragonCurve
-A Dragon Curve created in P5JS
+A [Dragon Curve](https://en.wikipedia.org/wiki/Dragon_curve) created in P5JS
 
 It's nicely animated:
 
